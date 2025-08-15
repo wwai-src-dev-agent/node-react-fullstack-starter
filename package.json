@@ -1,0 +1,8 @@
+{
+  "name": "node-react-fullstack-starter",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
